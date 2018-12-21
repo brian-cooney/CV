@@ -2,13 +2,17 @@
 
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/nikhilvijayan/) | [Blog](https://medium.com/@nkhilv/) | [Portfolio](http://www.nikhilvijayan.com)
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+I have always enjoyed making things. I'm passionate about working on things that help others. I have wanted to become a developer for the past 6 years or so, however I wasn't able to due to my visa restrictions. 
+
+As soon as I became a permanent UK resident (March 2018), I decided to quit my job and have been focusing all my time & energy on becoming a software developer. 
+
+I'm looking to work in an organisation that supports knowledge and growth, where I can make a meaningful contribution.
 
 **Tech skills at a glance:** : Ruby, Rails, Sinatra, JavaScript (ES6), React, Node.js, Express, CSS Flexbox, CSS Grid, HTML
 
 ## Projects
 
-For a complete list, see my [Github](https://github.com/nkhil/).
+For a complete list, see my [Github profile](https://github.com/nkhil/).
 
 | Project   | Description | Technologies |
 |---        |---         |---           |
@@ -34,6 +38,11 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I contributed to the growth of X while doing Y (job, or otherwise)
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
+
+#### Additional Skills
+
+- Methodologies : Test Driven Development
+- Foreign Languages: Hindi, Marathi, Malayalam
 
 ## Education
 
@@ -68,6 +77,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 **Quba Digital** (May 2018 to Dec 2018)    
 *Senior Digital Account Executive*  
+
 **EyeforTravel Ltd (part of FC Business Intelligence)** (Oct 2009 to Apr 2018)   
 *Head of Digital & Content*  
 
@@ -78,8 +88,9 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - **Woodworking**
 - **Cycling**
 - **Walking / Camping**
+- **Documentaries** 
 
-I really enjoy spending time outdoors. I'm a qualified advanced PADI scuba diver. I have also completed 3 levels of my AFF skydiving course and have spent time paragliding.
+I really enjoy spending time outdoors. I'm a qualified advanced PADI scuba diver with deep-diving specialty. I have also completed 3 levels of my AFF skydiving course and have spent time paragliding.
 
 ## Contact
 
