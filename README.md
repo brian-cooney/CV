@@ -120,5 +120,5 @@ I really enjoy spending time outdoors. I'm a qualified advanced PADI scuba diver
 ## Contact
 
 - **Email**: hello@nikhilvijayan.com
-- **Twitter**: (nkhil)[https://www.twitter/nkhil]
-- **Sourcerer**: (sourcerer.io/nkhil)[https://sourcerer.io/nkhil]
+- **Twitter**: [nkhil](https://www.twitter/nkhil)
+- **Sourcerer**: [sourcerer.io/nkhil](https://sourcerer.io/nkhil)
