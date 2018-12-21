@@ -23,7 +23,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (January 2019 to March 2019)
+### Makers Academy (January 2019 to March 2019)
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
@@ -34,15 +34,15 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-## Leeds University Business School (Sept 2007)
-### MA Marketing & Advertising
+### Leeds University Business School (Sept 2007)
+#### MA Marketing & Advertising
 
 - Subject, any specialisms
 - Grade
 - Other cool stuff
 
-## St. Xavier's College (2004 - 2007)
-### Bachelors in Mass Media (Advertising Major)
+### St. Xavier's College (2004 - 2007)
+#### Bachelors in Mass Media (Advertising Major)
 
 - Subject, any specialisms
 - Grade
