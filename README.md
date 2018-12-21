@@ -1,6 +1,6 @@
 # Nikhil Vijayan
 
-[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/nikhilvijayan/) | [Blog](https://medium.com/@nkhilv/)
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/nikhilvijayan/) | [Blog](https://medium.com/@nkhilv/) | [Portfolio](http://www.nikhilvijayan.com)
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
@@ -73,10 +73,14 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Hobbies and Interests
 
+- **Reading** : I love reading science fiction and good non-fiction books about business and technology.
 - **Climbing** : Bouldering and some traditional climbing
 - **Woodworking**
 - **Cycling**
 - **Walking / Camping**
-- **Reading** : I love reading science fiction and good non-fiction books about business and technology.
 
 I really enjoy spending time outdoors. I'm a qualified advanced PADI scuba diver. I have also completed 3 levels of my AFF skydiving course and have spent time paragliding.
+
+## Contact
+
+hello@nikhilvijayan.com
