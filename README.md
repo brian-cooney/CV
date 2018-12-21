@@ -82,7 +82,13 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 **EyeforTravel Ltd (part of FC Business Intelligence)** (Oct 2009 to Apr 2018)   
 *Head of Digital & Content*  
 
-## Hobbies and Interests
+## Work Eligibility
+
+I am a permanent resident of the UK with an indefinite leave to remain (ILR). I have complete eligibility to work in the UK without any restrictions. 
+
+I'm currently in the processs of becoming a naturalised British citizen.
+
+## Hobbies & Interests
 
 - **Reading** : I love reading science fiction and good non-fiction books about business and technology.
 - **Climbing** : Bouldering and some traditional climbing
