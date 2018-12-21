@@ -12,8 +12,9 @@ For a complete list, see my [Github](https://github.com/nkhil/).
 
 | Project   | Description | Technologies |
 |---        |---         |---           |
+|[Bombay Train Map](http://bombaytra.in/) | I designed a new map for the Bombay (Mumbai) train system. | Photoshop, HTML, CSS |
 |[Brexit Means Breadsticks](https://github.com/nkhil/Brexit_means_Breadsticks) | A Chrome extension that replaces any mention of the word 'Brexit' with 'Breadsticks' | Vanilla JavaScript |
-
+|[Upcoming UK Bank Holidays](https://github.com/nkhil/UK-bank-holidays-using-fetch-API) | I created [whenisthenextbankholiday.co.uk](http://www.whenisthenextbankholiday.co.uk) to display upcoming bank holidays (based on when the page is loaded) | HTML, CSS, Vanilla JavaScript |
 
 ## Skills
 
