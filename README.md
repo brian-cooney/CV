@@ -6,7 +6,7 @@ I have always enjoyed making things. I'm passionate about working on things that
 
 As soon as I became a permanent UK resident (March 2018), I decided to quit my job and have been focusing all my time & energy on becoming a software developer. 
 
-I'm looking to work in an organisation that supports knowledge and growth, where I can make a meaningful contribution.
+I'm looking to work in an organisation that supports learning and growth where I can make a meaningful contribution. I'm a fast learner, and I'm willing and happy to learn new technologies and skills.
 
 **Tech skills at a glance:** : Ruby, Rails, Sinatra, JavaScript (ES6), React, Node.js, Express, CSS Flexbox, CSS Grid, HTML
 
