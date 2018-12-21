@@ -58,3 +58,12 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 *Senior Digital Account Executive*  
 **Company Name** (Oct 2009 to Apr 2018)   
 *Head of Digital & Content*  
+
+## Hobbies and Interests
+
+- **Climbing** (Bouldering and some traditional climbing)
+- **Woodworking**
+- **Cycling**
+- **Walking**
+
+I enjoy spending time outdoors. I'm a qualified advanced PADI scuba diver. I have also completed 3 levels of my AFF skydiving course. 
