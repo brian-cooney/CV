@@ -1,4 +1,4 @@
-## Nikhil Vijayan
+# Nikhil Vijayan
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
@@ -34,15 +34,15 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Leeds University Business School (Sept 2007)
-## MA Marketing & Advertising
+## Leeds University Business School (Sept 2007)
+### MA Marketing & Advertising
 
 - Subject, any specialisms
 - Grade
 - Other cool stuff
 
-#### St. Xavier's College (2004 - 2007)
-## Bachelors in Mass Media (Advertising Major)
+## St. Xavier's College (2004 - 2007)
+### Bachelors in Mass Media (Advertising Major)
 
 - Subject, any specialisms
 - Grade
