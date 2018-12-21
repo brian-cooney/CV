@@ -1,18 +1,19 @@
+[![nikhil-vijayan.png](https://i.postimg.cc/K8Y8L6Z9/nikhil-vijayan.png)](https://postimg.cc/HVfm1P85)
 # Nikhil Vijayan
 
-[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/nikhilvijayan/) | [Blog](https://medium.com/@nkhilv/) | [Portfolio](http://www.nikhilvijayan.com)
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies / Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/nikhilvijayan/) | [Blog](https://medium.com/@nkhilv/) | [Portfolio](http://www.nikhilvijayan.com)
 
-I have always enjoyed making things. I'm passionate about working on things that help others. I have wanted to become a developer for the past 6 years or so, however I wasn't able to due to my visa restrictions. 
+I have always enjoyed making things. I'm passionate about working on things that help others. I have wanted to become a developer for the past 7 years or so, however I wasn't able to due to my visa restrictions. 
 
 As soon as I became a permanent UK resident (March 2018), I decided to quit my job and have been focusing all my time & energy on becoming a software developer. 
 
 I'm looking to work in an organisation that supports learning and growth where I can make a meaningful contribution. I'm a fast learner, and I'm willing and happy to learn new technologies and skills.
 
-**Tech skills at a glance:** : Ruby, Rails, Sinatra, JavaScript (ES6), React, Node.js, Express, CSS Flexbox, CSS Grid, HTML
+**Tech skills at a glance:** : Ruby on Rails, Sinatra, JavaScript (ES6), React, Node.js, Express, CSS Flexbox, CSS Grid, Git, HTML
 
 ## Projects
 
-For a complete list, see my [Github profile](https://github.com/nkhil/).
+Here are some of my favourite projects. For a complete list, see my [Github profile](https://github.com/nkhil/).
 
 | Project   | Description | Technologies |
 |---        |---         |---           |
