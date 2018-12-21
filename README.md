@@ -4,6 +4,17 @@
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
+**Tech skills at a glance:** : Ruby, Rails, Sinatra, JavaScript (ES6), React, Node.js, Express, CSS Flexbox, CSS Grid, HTML
+
+## Projects
+
+For a complete list, see my [Github](https://github.com/nkhil/).
+
+| Project   | Description | Technologies |
+|---        |---         |---           |
+|[Brexit Means Breadsticks](https://github.com/nkhil/Brexit_means_Breadsticks) | A Chrome extension that replaces any mention of the word 'Brexit' with 'Breadsticks' | Vanilla JavaScript |
+
+
 ## Skills
 
 #### This Skill
@@ -56,14 +67,15 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 **Quba Digital** (May 2018 to Dec 2018)    
 *Senior Digital Account Executive*  
-**Company Name** (Oct 2009 to Apr 2018)   
+**EyeforTravel Ltd (part of FC Business Intelligence)** (Oct 2009 to Apr 2018)   
 *Head of Digital & Content*  
 
 ## Hobbies and Interests
 
-- **Climbing** (Bouldering and some traditional climbing)
+- **Climbing** : Bouldering and some traditional climbing
 - **Woodworking**
 - **Cycling**
-- **Walking**
+- **Walking / Camping**
+- **Reading** : I love reading science fiction and good non-fiction books about business and technology.
 
-I enjoy spending time outdoors. I'm a qualified advanced PADI scuba diver. I have also completed 3 levels of my AFF skydiving course. 
+I really enjoy spending time outdoors. I'm a qualified advanced PADI scuba diver. I have also completed 3 levels of my AFF skydiving course and have spent time paragliding.
