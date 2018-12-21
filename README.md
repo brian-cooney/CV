@@ -49,6 +49,20 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ### Makers Academy (January 2019 to March 2019)
 
+Fully immersive 12 week computer programming course at Europe’s #1 Developer Bootcamp. 
+
+Focused on core coding techniques & principles such as agile methodologies, Test Driven Development, SOLID, Object Oriented Design & pair programming.
+
+Core course topics include: 
+
+- Ruby, JavaScript, HTML/CSS
+- Sinatra, Rails, AngularJS
+- Version control with Git / GitHub
+- RESTful API, 3rd party APIs
+- PostgreSQL, DataMapper, Active Record
+- RSpec, Capybara, Jasmine, Karma, Protractor
+- Heroku deployment
+
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
 - Great collaborator [PROVIDE EVIDENCE]
@@ -59,18 +73,18 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - RSpec, Jasmine
 
 ### Leeds University Business School (Sept 2007)
-#### MA Marketing & Advertising
+#### MA Marketing & Advertising (2:1)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- **Modules included**: Digital Marketing, Marketing Communications, Consumer Behavior, PR & Corporate Communications, Marketing Research
+- My dissertation aimed at understanding the importance of trust and credibility in the not-for-profit fundraising sector. 
+
 
 ### St. Xavier's College (2004 - 2007)
-#### Bachelors in Mass Media (Advertising Major)
+#### Bachelors in Mass Media (2:1)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Majored in Advertising
+- **Modules included:** Documentary Filmmaking, Photography, Psychology, Fundamentals of Design, Media Buying, Journalism
+- 50% of my degree was based on project work which exposed me to various fields such as advertising, filmmaking, film photography, graphic design, social work and much more. 
 
 #### Any other qualifications
 
@@ -78,6 +92,10 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 **Quba Digital** (May 2018 to Dec 2018)    
 *Senior Digital Account Executive*  
+
+- Worked with brands like London Luton Airport, Ideal Standard (Armitage Shanks) and Stowe School
+- Translating client requirements into technical specifications
+- Communicating technical questions and requirements with clients
 
 **EyeforTravel Ltd (part of FC Business Intelligence)** (Oct 2009 to Apr 2018)   
 *Head of Digital & Content*  
