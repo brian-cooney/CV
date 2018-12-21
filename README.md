@@ -52,7 +52,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Quba Digital** (May 2018 to Dec 2018)    
+*Senior Digital Account Executive*  
+**Company Name** (Oct 2009 to Apr 2018)   
+*Head of Digital & Content*  
