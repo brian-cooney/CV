@@ -20,7 +20,7 @@ Here are some of my favourite projects. For a complete list, see my [Github prof
 |[Bombay Train Map](http://bombaytra.in/) | I designed a new map for the Bombay (Mumbai) train system. | Photoshop, HTML, CSS |
 |[Brexit Means Breadsticks](https://github.com/nkhil/Brexit_means_Breadsticks) | A Chrome extension that replaces any mention of the word 'Brexit' with 'Breadsticks' | Vanilla JavaScript |
 |[Upcoming UK Bank Holidays](https://github.com/nkhil/UK-bank-holidays-using-fetch-API) | I created [whenisthenextbankholiday.co.uk](http://www.whenisthenextbankholiday.co.uk) to display upcoming bank holidays (based on the time) | HTML, CSS, Vanilla JavaScript |
-|[Personal Portfolio](http://www.nikhilvijayan.com/) | I created a responsive site to display my work in a clean way | CSS Gri, CSS Flexbox, SASS, JavaScript |
+|[Personal Portfolio](http://www.nikhilvijayan.com/) | I created a responsive site to display my work in a clean way | CSS Grid, CSS Flexbox, SASS, JavaScript |
 
 ## Skills
 
