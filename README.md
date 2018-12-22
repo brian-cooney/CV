@@ -3,13 +3,13 @@
 
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies & Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/nikhilvijayan/) | [Blog](https://medium.com/@nkhilv/) | [Portfolio](http://www.nikhilvijayan.com)
 
-I have always enjoyed making things. I'm passionate about working on things that help others. I have wanted to become a developer for the past 7 years or so, however I wasn't able to due to certain visa restrictions. 
+I have always enjoyed making and creating things. I am most passionate about working on things that interact with people. I realised this when an app I designed reached 300+ active users. 
 
-As soon as I became a permanent UK resident (March 2018), I decided to quit my job & have been focusing all my time & energy on becoming a software developer. 
+I have wanted to become a developer for the past 7+ years, however I wasn't able to due to certain visa restrictions. As soon as I became a permanent UK resident (March 2018), I decided to quit my job & have been focusing all my time & energy on becoming a better software developer. 
 
-I'd like to work for an organisation that supports learning and growth, where I can make a meaningful contribution. I'm a fast learner, and I'm willing and happy to learn new technologies and skills.
+I'm looking to work for an organisation that supports learning and growth, where I can make a meaningful contribution. I'm a fast learner, and I'm willing and happy to learn new technologies and skills.
 
-**Tech skills at a glance:** : Ruby on Rails, Sinatra, JavaScript (ES6), React, Node.js, Express, CSS Flexbox, CSS Grid, Git, HTML
+**Tech skills at a glance:** : JavaScript (ES6), React, Node.js, Express, Ruby on Rails, Sinatra, CSS Flexbox, CSS Grid, Git, HTML
 
 ## Projects
 
@@ -19,7 +19,8 @@ Here are some of my favourite projects. For a complete list, see my [Github prof
 |---        |---         |---           |
 |[Bombay Train Map](http://bombaytra.in/) | I designed a new map for the Bombay (Mumbai) train system. | Photoshop, HTML, CSS |
 |[Brexit Means Breadsticks](https://github.com/nkhil/Brexit_means_Breadsticks) | A Chrome extension that replaces any mention of the word 'Brexit' with 'Breadsticks' | Vanilla JavaScript |
-|[Upcoming UK Bank Holidays](https://github.com/nkhil/UK-bank-holidays-using-fetch-API) | I created [whenisthenextbankholiday.co.uk](http://www.whenisthenextbankholiday.co.uk) to display upcoming bank holidays (based on when the page is loaded) | HTML, CSS, Vanilla JavaScript |
+|[Upcoming UK Bank Holidays](https://github.com/nkhil/UK-bank-holidays-using-fetch-API) | I created [whenisthenextbankholiday.co.uk](http://www.whenisthenextbankholiday.co.uk) to display upcoming bank holidays (based on the time) | HTML, CSS, Vanilla JavaScript |
+|[Personal Portfolio](http://www.nikhilvijayan.com/) | I created a responsive site to display my work in a clean way | CSS Gri, CSS Flexbox, SASS, JavaScript |
 
 ## Skills
 
@@ -51,7 +52,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 Fully immersive 12 week computer programming course at Europe’s #1 Developer Bootcamp. 
 
-Focused on core coding techniques & principles such as agile methodologies, Test Driven Development, SOLID, Object Oriented Design & pair programming.
+Focused on core coding techniques & principles such as agile methodologies, Test Driven Development, Object Oriented Design & pair programming.
 
 Core course topics include: 
 
