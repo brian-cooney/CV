@@ -5,7 +5,7 @@
 
 I'm a full-stack developer looking to work for an organisation where I can make a meaningful contribution. I'm a fast learner, and I'm willing and enthusiastic to learn new technology stacks and skills. I work best in an environment that fosters learning and growth and I'd love to hear from employers who pride themselves on it.
 
-I have always enjoyed making and creating things. I would ideally like to work on things that interact with the real world in some way. A simple app I designed currently has 300+ active users, and I find that making something that solves a small problem for even a small number of people is deeply satisfying.
+I have always enjoyed making and creating things. I would ideally like to work on things that interact with the real world in some way. A simple app I designed currently has 300+ active users, and I find the act of making something that solves a problem for even a small number of people deeply satisfying.
 
 I have wanted to become a developer for the past 7+ years, however I wasn't able to due to certain visa restrictions. As soon as I became a permanent UK resident (March 2018), I decided to quit my job & have been focusing all my time & energy on becoming a better software developer. 
 
