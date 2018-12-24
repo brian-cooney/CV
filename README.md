@@ -3,14 +3,16 @@
 
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies & Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/nikhilvijayan/) | [Blog](https://medium.com/@nkhilv/) | [Portfolio](http://www.nikhilvijayan.com)
 
-I'm a full-stack developer looking to work for an organisation where I can make a meaningful contribution. I'm a fast learner, and I'm willing and enthusiastic to learn new technologies and skills.
+I'm a full-stack developer looking to work for an organisation where I can make a meaningful contribution. I'm a fast learner, and I'm willing and enthusiastic to learn new technologies and skills. I work best in an environment that fosters learning and growth in the face of change. 
 
-I have always enjoyed making and creating things. I am most passionate about working on things that touches others, and improves their life even if it's in a small domain. A simple app I designed currently has 300+ active users, and it's that connection that gives me a lot of meaning. 
+I have always enjoyed making and creating things. I am most passionate about working on things that interacts with the world, and improves lives even in a small way. A simple app I designed currently has 300+ active users, and I find that this connection is deeply satisfying.
 
 I have wanted to become a developer for the past 7+ years, however I wasn't able to due to certain visa restrictions. As soon as I became a permanent UK resident (March 2018), I decided to quit my job & have been focusing all my time & energy on becoming a better software developer. 
 
 
-**Tech skills at a glance:** : JavaScript (ES6), React, Node.js, Express, Ruby on Rails, Sinatra, CSS Flexbox, CSS Grid, Git, HTML.
+**Tech skills at a glance:**: 
+
+JavaScript (ES6), React, Node.js, Express, Ruby on Rails, Sinatra, CSS Flexbox, CSS Grid, Git, HTML.
 
 ## Projects
 
@@ -29,18 +31,24 @@ Here are some of my favourite projects. For a complete list, see my [Github prof
 
 I really enjoy solving problems, and it is at the core of my decision to become a developer. I get consumed by problems that inevitably arise on any project, and I relish in the opportunity to come up with creative solutions. 
 
+In my time working at Quba, I had the priviledge of working on real-world projects. One of my most satisfying memories is being able to debug a major issue caused due to Google Chrome V70 changing how it interpreted CSS Grid rows instead of having to pass it on to the busy in-house developer team.  
+
+In my experience self-learning various technologies in the past year, I have spent countless hours debugging issues with npm (Node package manager), trying to solve errors caused due to missing dependencies, fixing bugs that cause responsive issues on certain devices and much more. 
+
 #### Communication skills
 
 Being good at communication is a vital soft skill for any organisation, be it to aid collaboration, grow productivity, build trust within teams or to increase morale. 
 
 I honestly believe my unique career experience has put me in positions to understand and grow not only my communication skills, but most importantly the skill to listen and 
 
-**Communicating with technical and non-technical teams**
+- Communicating with technical and non-technical teams
+
 In my role as senior account executive at Quba, a leading digital agency, I was often the bridge between clients who were non-technical stakeholders (usually marketing teams or senior management) and developers. It was my job to listen, and ask the right questions to make sure the business objectives were correctly represented in the technical specifications.
 
 In my role as head of digital & content at EyeforTravel, a leading business intelligence firm based in London, I was often called on in management meetings to condense marketing data in a way that communicated high-level information necessary for senior management in understanding and making decisions like making long-term projections, or allocating resources in the short-term. 
 
-**Relationship & Rapport Building**
+- Relationship & Rapport Building
+
 As part of my role at EyeforTravel, I was often called on in difficult situations both within the organisation and with external vendors. Through some trying situations, I have learned the importance of building strong relationships while navigating difficult situations. 
 
 At Quba, I was able to win back the trust of a client relationship that had broken down due to a re-design project that didn't meet expectations. 
