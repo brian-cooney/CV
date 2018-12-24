@@ -3,9 +3,9 @@
 
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies & Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/nikhilvijayan/) | [Blog](https://medium.com/@nkhilv/) | [Portfolio](http://www.nikhilvijayan.com)
 
-I'm a full-stack developer looking to work for an organisation where I can make a meaningful contribution. I'm a fast learner, and I'm willing and enthusiastic to learn new technologies and skills. I work best in an environment that fosters learning and growth in the face of change. 
+I'm a full-stack developer looking to work for an organisation where I can make a meaningful contribution. I'm a fast learner, and I'm willing and enthusiastic to learn new technology stacks and skills. I work best in an environment that fosters learning and growth and I'd love to hear from employers who pride themselves on it.
 
-I have always enjoyed making and creating things. I am most passionate about working on things that interacts with the world, and improves lives even in a small way. A simple app I designed currently has 300+ active users, and I find that this connection is deeply satisfying.
+I have always enjoyed making and creating things. I would ideally like to work on things that interact with the real world in some way. A simple app I designed currently has 300+ active users, and I find that making something that solves a small problem for even a small number of people is deeply satisfying.
 
 I have wanted to become a developer for the past 7+ years, however I wasn't able to due to certain visa restrictions. As soon as I became a permanent UK resident (March 2018), I decided to quit my job & have been focusing all my time & energy on becoming a better software developer. 
 
@@ -16,7 +16,7 @@ JavaScript (ES6), React, Node.js, Express, Ruby on Rails, Sinatra, CSS Flexbox, 
 
 ## Projects
 
-Here are some of my favourite projects. For a complete list, see my [Github profile](https://github.com/nkhil/).
+Here is a selection of my favourite projects. For a complete list,  [please visit my Github profile](https://github.com/nkhil/).
 
 | Project   | Description | Technologies |
 |---        |---         |---           |
@@ -29,31 +29,33 @@ Here are some of my favourite projects. For a complete list, see my [Github prof
 
 #### Problem Solving 
 
-I really enjoy solving problems, and it is at the core of my decision to become a developer. I get consumed by problems that inevitably arise on any project, and I relish in the opportunity to come up with creative solutions. 
+I really enjoy solving problems, and it is at the core of my decision to become a developer. I get engrossed in problems that inevitably arise on projects, and I find joy in the opportunity to come up with creative solutions to get around them.
 
-In my time working at Quba, I had the priviledge of working on real-world projects. One of my most satisfying memories is being able to debug a major issue caused due to Google Chrome V70 changing how it interpreted CSS Grid rows instead of having to pass it on to the busy in-house developer team.  
+In my time working at Quba (a digital agency), I had the priviledge of working on real-world projects as the senior account executive. One of my most satisfying memories is being able to debug a major issue caused due to a Google Chrome update in Version 70, where Chrome changed how it interpreted CSS Grid rows. This was made even more satisfying as the developer team was already busy, and we were very short of time. 
 
-In my experience self-learning various technologies in the past year, I have spent countless hours debugging issues with npm (Node package manager), trying to solve errors caused due to missing dependencies, fixing bugs that cause responsive issues on certain devices and much more. 
+In my personal experience self-learning various technologies in the past year, I have spent countless hours debugging issues with npm (Node package manager), trying to solve errors caused due to missing dependencies, fixing bugs that cause responsive issues on certain devices and much more. While the time spent fixing bugs is not inherently satisfying, I get a lot of pleasure from pushing through and cracking the problem. 
 
 #### Communication skills
 
-Being good at communication is a vital soft skill for any organisation, be it to aid collaboration, grow productivity, build trust within teams or to increase morale. 
+Being good at communication is a vital soft skill for any organisation, be it to aid collaboration, grow productivity, build trust within teams or to increase morale.
 
-I honestly believe my unique career experience has put me in positions to understand and grow not only my communication skills, but most importantly the skill to listen and 
+Having spent more than 8 years as a marketer, I understand the importance of effective communication. I honestly believe my unique career experience has put me in positions to understand and grow not only my communication skills, but most importantly the skill to listen, emphathise and learn from my experiences. 
 
-- Communicating with technical and non-technical teams
+- **Communicating with technical and non-technical teams**
 
 In my role as senior account executive at Quba, a leading digital agency, I was often the bridge between clients who were non-technical stakeholders (usually marketing teams or senior management) and developers. It was my job to listen, and ask the right questions to make sure the business objectives were correctly represented in the technical specifications.
 
-In my role as head of digital & content at EyeforTravel, a leading business intelligence firm based in London, I was often called on in management meetings to condense marketing data in a way that communicated high-level information necessary for senior management in understanding and making decisions like making long-term projections, or allocating resources in the short-term. 
+In my role as head of digital & content at EyeforTravel, a leading business intelligence firm based in London, I was often called on in management meetings to condense marketing data in a way that communicated high-level information necessary for senior management in understanding and making decisions like making projections, or allocating resources in the short-term. 
 
-- Relationship & Rapport Building
+- **Relationship & Rapport Building**
 
 As part of my role at EyeforTravel, I was often called on in difficult situations both within the organisation and with external vendors. Through some trying situations, I have learned the importance of building strong relationships while navigating difficult situations. 
 
-At Quba, I was able to win back the trust of a client relationship that had broken down due to a re-design project that didn't meet expectations. 
+At Quba, I was able to win back the trust of a client after the relationship that had broken down due to an overdue re-design project that didn't meet expectations. 
 
+#### Motivated self-starter
 
+I pride myself at my ability to learn. In the past 18 months, I have acquired a good working knowledge of JavaScript, Ruby on Rails, as well as frameworks such as React.js, Node.js, Express, Sinatra etc. Through trial and error, I have a better understanding of the best tools and techniques that work for me, and more importantly, I feel confident in my ability to recognise the gaps in my knowledge and improve myself. 
 
 #### Additional Skills
 
@@ -90,15 +92,14 @@ Core course topics include:
 ### Leeds University Business School (Sept 2007)
 #### MA Marketing & Advertising (2:1)
 
-- **Modules included**: Digital Marketing, Marketing Communications, Consumer Behavior, PR & Corporate Communications, Marketing Research
+- **Core Subjects**: Digital Marketing, Marketing Communications, Consumer Behavior, PR & Corporate Communications and Marketing Research
 - My dissertation aimed at understanding the importance of trust and credibility in the not-for-profit fundraising sector. 
 
 
 ### St. Xavier's College (2004 - 2007)
-#### Bachelors in Mass Media (2:1)
+#### Bachelors in Mass Media - Advertising Major (2:1)
 
-- Majored in Advertising
-- **Modules included:** Documentary Filmmaking, Photography, Psychology, Fundamentals of Design, Media Buying, Journalism
+- **Core Subjects:** Documentary Filmmaking, Photography, Psychology, Fundamentals of Design, Media Buying, Advertising and Journalism
 - 50% of my degree was based on project work which exposed me to various fields such as advertising, filmmaking, film photography, graphic design, social work and much more. 
 
 #### Any other qualifications
