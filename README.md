@@ -1,4 +1,4 @@
-[![nikhil-vijayan.png](https://i.postimg.cc/KvPTcV0W/nikhil-vijayan.png)](https://postimg.cc/ZCqnVftP)
+[![nikhil-vijayan.png](https://i.postimg.cc/Wp9KWWGQ/nikhil-vijayan.png)](https://postimg.cc/DmXBmcYg)
 # Nikhil Vijayan
 
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies & Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/nikhilvijayan/) | [Blog](https://medium.com/@nkhilv/) | [Portfolio](http://www.nikhilvijayan.com)
