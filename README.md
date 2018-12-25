@@ -1,4 +1,4 @@
-[![nikhil-vijayan.png](https://i.postimg.cc/K8Y8L6Z9/nikhil-vijayan.png)](https://postimg.cc/HVfm1P85)
+[![nikhil-vijayan.png](https://i.postimg.cc/KvPTcV0W/nikhil-vijayan.png)](https://postimg.cc/ZCqnVftP)
 # Nikhil Vijayan
 
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies & Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/nikhilvijayan/) | [Blog](https://medium.com/@nkhilv/) | [Portfolio](http://www.nikhilvijayan.com)
@@ -41,17 +41,19 @@ Being good at communication is a vital soft skill for any organisation, be it to
 
 Having spent more than 8 years as a marketer, I understand the importance of effective communication. I honestly believe my unique career experience has put me in positions to understand and grow not only my communication skills, but most importantly the skill to listen, emphathise and learn from my experiences. 
 
-- **Communicating with technical and non-technical teams**
+- **8+ Years of experience communicating with technical and non-technical teams**
 
 In my role as senior account executive at Quba, a leading digital agency, I was often the bridge between clients who were non-technical stakeholders (usually marketing teams or senior management) and developers. It was my job to listen, and ask the right questions to make sure the business objectives were correctly represented in the technical specifications.
 
 In my role as head of digital & content at EyeforTravel, a leading business intelligence firm based in London, I was often called on in management meetings to condense marketing data in a way that communicated high-level information necessary for senior management in understanding and making decisions like making projections, or allocating resources in the short-term. 
 
-- **Relationship & Rapport Building**
+- **Ability to build lasting relationships**
 
 As part of my role at EyeforTravel, I was often called on in difficult situations both within the organisation and with external vendors. Through some trying situations, I have learned the importance of building strong relationships while navigating difficult situations. 
 
 At Quba, I was able to win back the trust of a client after the relationship that had broken down due to an overdue re-design project that didn't meet expectations. 
+
+**Note:** I'm happy to provide references from previous clients and colleagues.
 
 #### Motivated self-starter
 
