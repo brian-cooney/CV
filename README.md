@@ -20,6 +20,7 @@ Here is a selection of my favourite projects. For a complete list,  [please visi
 
 | Project   | Description | Technologies |
 |---        |---         |---           |
+|[Tinyreactexperiments.com](http://tinyreactexperiments/) | I built a site where I try to get better at React by building tiny components | React, JavaScript, CSS |
 |[Bombay Train Map](http://bombaytra.in/) | I designed a new map for the Bombay (Mumbai) train system. | Photoshop, HTML, CSS |
 |[Brexit Means Breadsticks](https://github.com/nkhil/Brexit_means_Breadsticks) | A Chrome extension that replaces any mention of the word 'Brexit' with 'Breadsticks' | Vanilla JavaScript |
 |[Upcoming UK Bank Holidays](https://github.com/nkhil/UK-bank-holidays-using-fetch-API) | I created [whenisthenextbankholiday.co.uk](http://www.whenisthenextbankholiday.co.uk) to display upcoming bank holidays (based on the time) | HTML, CSS, Vanilla JavaScript |
