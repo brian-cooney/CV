@@ -3,7 +3,7 @@
 
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies & Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/nikhilvijayan/) | [Blog](https://medium.com/@nkhilv/) | [Portfolio](http://www.nikhilvijayan.com)
 
-I have wanted to become a developer for the past 7+ years, but couldn't pursue it due to recent changes in UK's immigration policy. I became a permanent UK resident last year(March 2018). I quit my job the day after that to focus all my time & energy on becoming a better software developer.
+I have wanted to become a developer for the past 7+ years, but couldn't pursue it due to recent changes in UK's immigration policy. I became a permanent UK resident last year(March 2018). I quit my job the day after, and have been focusing all my time & energy on becoming a better software developer.
 
 I have 8+ years of experience leading marketing and digital strategy for products worth well over £500k at a BI SME in London. I have also worked as senior account executive at a digital agency, managing clients like **London Luton Airport**, **Ideal Standard (Armitage Shanks)** and **Stowe School** as well as working with in-house developers to spec, estimate and deliver on projects. 
 
@@ -123,6 +123,13 @@ Core course topics include:
 I am a permanent resident of the UK with indefinite leave to remain (ILR). I have the eligibility to work in the UK without any restrictions. 
 
 I'm currently in the processs of becoming a naturalised British citizen.
+
+## Languages
+
+- English
+- Hindi
+- Marathi
+- Malayalam
 
 ## Hobbies & Interests
 
