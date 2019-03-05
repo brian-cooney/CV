@@ -8,14 +8,15 @@
 I have wanted to become a developer for the past 6+ years but couldn't pursue it due to the UK's current immigration policy. I became a permanent UK resident last year (March 2018). I quit my job the day after, and have been focusing all my time & energy on becoming a better software developer.
 
 **Background**
+
 - **Marketing**
-8+ years of experience leading marketing and digital strategy for products worth well over £1.8m at a business intelligence organisation in London. 
+  8+ years of experience leading marketing and digital strategy for products worth well over £1.8m at a business intelligence organisation in London.
 
 - **Client Facing (Account Management)**
-Client-facing experience at a digital agency managing clients like **London Luton Airport**, **Ideal Standard (Armitage Shanks)** and **Stowe School** as well as working with in-house developers to spec, estimate and deliver on projects.
+  Client-facing experience at a digital agency managing clients like **London Luton Airport**, **Ideal Standard (Armitage Shanks)** and **Stowe School** as well as working with in-house developers to spec, estimate and deliver on projects.
 
 **Objective**
-I'm looking to work for an organisation where I can make a meaningful contribution. I'm a fast learner, and I'm willing and enthusiastic to learn new technology stacks and skills. 
+I'm looking to work for an organisation where I can make a meaningful contribution. I'm a fast learner, and I'm willing and enthusiastic to learn new technology stacks and skills.
 
 **Tech skills at a glance:**:
 
@@ -27,15 +28,15 @@ Here is a selection of the projects I've worked on. For a complete list, [please
 
 | Project                                                                                | Description                                                                                                                                 | Technologies                            |
 | -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------- |
-| [Personal portfolio - nikhilvijayan.com](http://www.nikhilvijayan.com/)                                    | A responsive static site to showcase my projects and writing.                                                                              | CSS Grid, CSS Flexbox, SASS, JavaScript |
-| [tinyreactexperiments.com](http://tinyreactexperiments.com/)                           | A site I built to get better at React by building tiny components                                                               | React, JavaScript, CSS                  |
-| [Catch of the day](http://tinyreactexperiments.com/)                           | A front-end restaurant menu app built using React                                                                | React, CSS                  |
-| [Instagram clone](https://github.com/nkhil/Brexit_means_Breadsticks)          | A Instagram clone built using Ruby on Rails                                                        | Ruby on Rails                      |
-| [10 pin bowling scorecard](https://github.com/nkhil/Brexit_means_Breadsticks)          | Back-end logic to score a game of 10-pin bowling made in vanilla JS                                                      | Vanilla JavaScript                      |
-| [Takeaway Challenge](https://github.com/nkhil/takeaway-challenge)          | Business logic for a tool that takes orders and uses the Twilio API to confirm delivery time                                                       | Sinatra                      |
+| [Personal portfolio - nikhilvijayan.com](http://www.nikhilvijayan.com/)                | A responsive static site to showcase my projects and writing.                                                                               | CSS Grid, CSS Flexbox, SASS, JavaScript |
+| [tinyreactexperiments.com](http://tinyreactexperiments.com/)                           | A site I built to get better at React by building tiny components                                                                           | React, JavaScript, CSS                  |
+| [Catch of the day](http://tinyreactexperiments.com/)                                   | A front-end restaurant menu app built using React                                                                                           | React, CSS                              |
+| [Instagram clone](https://github.com/nkhil/Brexit_means_Breadsticks)                   | A Instagram clone built using Ruby on Rails                                                                                                 | Ruby on Rails                           |
+| [10 pin bowling scorecard](https://github.com/nkhil/Brexit_means_Breadsticks)          | Back-end logic to score a game of 10-pin bowling made in vanilla JS                                                                         | Vanilla JavaScript                      |
+| [Takeaway Challenge](https://github.com/nkhil/takeaway-challenge)                      | Business logic for a tool that takes orders and uses the Twilio API to confirm delivery time                                                | Sinatra                                 |
 | [Bombay Train Map](http://bombaytra.in/)                                               | I designed a new map for the Bombay (Mumbai) train system.                                                                                  | Photoshop, HTML, CSS                    |
 | [Brexit Means Breadsticks](https://github.com/nkhil/Brexit_means_Breadsticks)          | A Chrome extension that replaces any mention of the word 'Brexit' with 'Breadsticks'                                                        | Vanilla JavaScript                      |
-| [Responsive Landing Page](https://github.com/nkhil/Titan-Responsive-Landing-Page-)          | Responsive landing page design                                                        | CSS Flexbox, HTML                      |
+| [Responsive Landing Page](https://github.com/nkhil/Titan-Responsive-Landing-Page-)     | Responsive landing page design                                                                                                              | CSS Flexbox, HTML                       |
 | [Upcoming UK Bank Holidays](https://github.com/nkhil/UK-bank-holidays-using-fetch-API) | I created [whenisthenextbankholiday.co.uk](http://www.whenisthenextbankholiday.co.uk) to display upcoming bank holidays (based on the time) | HTML, CSS, Vanilla JavaScript           |
 
 ## Skills
@@ -50,28 +51,36 @@ I really enjoy solving problems, and it is at the core of my decision to become 
   As the head of digital and marketing at EyeforTravel, my role included managing the team which had become increasingly remote. This meant that it was harder to keep everyone informed about the happenings in the business. I didn't want to add another meeting to the schedule as this often hurts productivity. As nobody within my company had heard of Slack (back in 2016), I had to get buy-in from management as well as peers. We were successful in eliminating almost all internal email, add several channels on Slack to share internal as well as external industry news, commonly used resources, create more transparency while freeing up employee time.
 
 - **Technical problem solving under high pressure**
-In my time working a digital agency, I worked on real-world projects as the senior account executive. One of my most satisfying memories is being able to debug a major issue caused on a client's live production site due to a Google Chrome update in Version 70, where Chrome changed how it interpreted CSS Grid rows. As I had recently been teching myself CSS Grid, I was able to test out a few assumptions in Chrome's dev tools. The solution was to explicitly declare rows. This meant that we were able to communicate with the client, test, fix and deploy in a relatively short time. 
+  In my time working a digital agency, I worked on real-world projects as the senior account executive. One of my most satisfying memories is being able to debug a major issue caused on a client's live production site due to a Google Chrome update in Version 70, where Chrome changed how it interpreted CSS Grid rows. As I had recently been teching myself CSS Grid, I was able to test out a few assumptions in Chrome's dev tools. The solution was to explicitly declare rows. This meant that we were able to communicate with the client, test, fix and deploy in a relatively short time.
 
 ### Communication
 
 Being good at communication is a vital soft skill for any organisation, be it to aid collaboration, grow productivity, build trust within teams or to increase morale.
 
-- **8+ Years of experience communicating with technical and non-technical teams**
-  - **Account Management Experience**
-  In my role as senior account executive at Quba, a leading digital agency, I was often the bridge between clients who were non-technical stakeholders (usually marketing teams or senior management) and developers. It was my job to listen and ask the right questions (both to the clients and developers) to ensure the business objectives were correctly represented in the technical specifications, and to ensure that we weren't promising anything that was technically unrealistic.&nbsp;
-&nbsp;
-  - **Management Experience**
-  In my role as head of digital & content at EyeforTravel, a leading business intelligence firm based in London, I was often called on in management meetings to condense marketing data in a way that communicated high-level information necessary for senior management in understanding and making decisions like making projections, or allocating resources in the short-term.
-&nbsp;
-  - **Building lasting relationships**
+#### 8+ Years of experience communicating with technical and non-technical teams
 
-As part of my role at EyeforTravel, I was often called on in difficult situations both within the organisation and with external vendors. I was often able to navigate difficult situations by being able to call on colleagues for help or guidance. This was especially evident when I had to move out of the UK in 2011 due to new visa regulations, but I was offered a 100% remote job due to my relationship with my colleagues, and eventually offered a sponsorship to come back to the UK. Through some trying situations, I have learned the importance of building strong relationships. 
+- **Account Management Experience**
+  In my role as senior account executive at Quba, a leading digital agency, I was often the bridge between clients who were non-technical stakeholders (usually marketing teams or senior management) and developers. It was my job to listen and ask the right questions (both to the clients and developers) to ensure the business objectives were correctly represented in the technical specifications, and to ensure that we weren't promising
+- **Management Experience**
+  In my role as head of digital & content at EyeforTravel, a leading business intelligence firm based in London, I was often called on in management meetings to condense marketing data in a way that communicated high-level information necessary for senior management in understanding and making decisions like making projections, or allocating resources in the short-term.
+- **Building lasting relationships**
+  As part of my role at EyeforTravel, I was often called on in difficult situations both within the organisation and with external vendors. I was often able to navigate difficult situations by being able to call on colleagues for help or guidance. This was especially evident when I had to move out of the UK in 2011 due to new visa regulations, but I was offered a 100% remote job due to my relationship with my colleagues and external media partners and sponsors. After a year, I was also eventually offered a sponsorship to come back to the UK.
 
 **Note:** I'm happy to provide references from previous clients and colleagues.
 
 #### Motivated self-starter
 
-I pride myself at my ability to learn. In the past 18 months, I have acquired a good working knowledge of JavaScript, Ruby on Rails, as well as frameworks such as React.js, Node.js, Express, Sinatra etc. Through trial and error, I have a better understanding of the best tools and techniques that work for me, and more importantly, I feel confident in my ability to recognise the gaps in my knowledge and improve myself.
+I learned how to code alongside working full-time in a high-pressure full-time job. This meant that even though I had the motivation, my time was limited.
+
+My approach to this problem was to dedicate at least 1 hour in the morning (when my attention level was at its highest), use online resources like freeCodeCamp and CodeAcademy while attending local programming and UX meetups, volunteering at conferences (Smashing conference, FrontEndNorth) to meet experienced developers, some of whom I am still in touch with and consider them to be my mentors.
+
+As soon as I could, I was able to quit my job and move to a smaller city (Sheffield) to reduce my expenses and dedicate all my time towards learning. I got a job at a local digital agency to be able to work alongside developers and get on-going support and guidance from them.
+
+Following that, I applied to Makers Academy to get more structure and a support network to make sure I wasn't learning any bad habits that would be hard to undo later.
+
+I have been able to de-construct my learning and recognise the style that works best for me (complete immersion). I have supplimented my learning with books that cover the latest research on learning (for eg: 'Deep Work' and 'So good they can't ignore you' by Cal Newport are some of my favourites).
+
+Having built the discipline, and a time-tested structure of learning, I feel confident in my ability to be able to take on new challenges and be able to perform at a high level.
 
 ## Education
 
@@ -83,21 +92,35 @@ Focused on core coding techniques & principles such as agile methodologies, Test
 
 Core course topics include:
 
-- Ruby, JavaScript, HTML/CSS
-- Version control with Git / GitHub
-- RESTful API, 3rd party APIs
-- PostgreSQL, Active Record
-- RSpec, Capybara, Jasmine, Karma, Protractor
-- Heroku deployment
+- **Programming fundamentals**
+  Pair Programming , Agile methodology, Single responsibility, Object Oriented Design (OOP), Test Driven Development (TDD), Cohesion and Encapsulation.
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
+- **Languages and frameworks**
+  - Languages:
+    - Ruby
+    - JavaScript
+    - HTML / CSS
+  - Frameworks:
+    - Ruby on Rails
+    - Sinatra
+    - React
+    - Node
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+* Ruby, JavaScript, HTML/CSS
+* Version control with Git / GitHub
+* RESTful API, 3rd party APIs
+* PostgreSQL, Active Record
+* RSpec, Capybara, Jasmine, Karma, Protractor
+* Heroku deployment
+
+* Curious and passionate about code. [PROVIDE EVIDENCE]
+* Fast, independent learner [PROVIDE EVIDENCE]
+* Great collaborator [PROVIDE EVIDENCE]
+
+* OOP, TDD, MVC, DDD
+* Agile/XP
+* Ruby, Rails, JavaScript
+* RSpec, Jasmine
 
 ### Leeds University Business School (Sept 2007)
 
