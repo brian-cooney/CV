@@ -64,9 +64,11 @@ I really enjoy solving problems, and it is at the core of my decision to become 
 #### Some instances of my problem solving experience
 
 - **Improving internal communication in a remote team**
+
   As the head of digital and marketing at EyeforTravel, my role included managing the team which had become increasingly remote. This meant that it was harder to keep everyone informed about the happenings in the business. I didn't want to add another meeting to the schedule as this often hurts productivity. As nobody within my company had heard of Slack (back in 2016), I had to get buy-in from management as well as peers. We were successful in eliminating almost all internal email, add several channels on Slack to share internal as well as external industry news, commonly used resources, create more transparency while freeing up employee time.
 
 - **Technical problem solving under high pressure**
+
   In my time working a digital agency, I worked on real-world projects as the senior account executive. One of my most satisfying memories is being able to debug a major issue caused on a client's live production site due to a Google Chrome update in Version 70, where Chrome changed how it interpreted CSS Grid rows. As I had recently been teching myself CSS Grid, I was able to test out a few assumptions in Chrome's dev tools. The solution was to explicitly declare rows. This meant that we were able to communicate with the client, test, fix and deploy in a relatively short time.
 
 ### Communication
@@ -76,10 +78,15 @@ Being good at communication is a vital soft skill for any organisation, be it to
 #### 8+ Years of experience communicating with technical and non-technical teams
 
 - **Account Management Experience**
+
   In my role as senior account executive at Quba, a leading digital agency, I was often the bridge between clients who were non-technical stakeholders (usually marketing teams or senior management) and developers. It was my job to listen and ask the right questions (both to the clients and developers) to ensure the business objectives were correctly represented in the technical specifications, and to ensure that we weren't promising
+
 - **Management Experience**
+
   In my role as head of digital & content at EyeforTravel, a leading business intelligence firm based in London, I was often called on in management meetings to condense marketing data in a way that communicated high-level information necessary for senior management in understanding and making decisions like making projections, or allocating resources in the short-term.
+
 - **Building lasting relationships**
+
   As part of my role at EyeforTravel, I was often called on in difficult situations both within the organisation and with external vendors. I was often able to navigate difficult situations by being able to call on colleagues for help or guidance. This was especially evident when I had to move out of the UK in 2011 due to new visa regulations, but I was offered a 100% remote job due to my relationship with my colleagues and external media partners and sponsors. After a year, I was also eventually offered a sponsorship to come back to the UK.
 
 **Note:** I'm happy to provide references from previous clients and colleagues.
