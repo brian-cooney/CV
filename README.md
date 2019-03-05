@@ -12,10 +12,16 @@ I have wanted to become a developer for the past 6+ years but couldn't pursue it
 **Background**
 
 - **Marketing**
+
   8+ years of experience leading marketing and digital strategy for products worth well over £1.8m at a business intelligence organisation in London.
 
 - **Client Facing (Account Management)**
+
   Client-facing experience at a digital agency managing clients like **London Luton Airport**, **Ideal Standard (Armitage Shanks)** and **Stowe School** as well as working with in-house developers to spec, estimate and deliver on projects.
+
+  **Management**
+
+  Managed 
 
 **Objective**
 I'm looking to work for an organisation where I can make a meaningful contribution. I'm a fast learner, and I'm willing and enthusiastic to learn new technology stacks and skills.
