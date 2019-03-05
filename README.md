@@ -20,16 +20,17 @@ I have wanted to become a developer for the past 6+ years but couldn't pursue it
 
   Client-facing experience at a digital agency managing clients like **London Luton Airport**, **Ideal Standard (Armitage Shanks)** and **Stowe School** as well as working with in-house developers to spec, estimate and deliver on projects.
 
-- **Management**
+- **Team Management**
 
   4+ years of experience hiring, training and managing a 6 member team.
 
 **Objective**
+
 I'm looking to work for an organisation where I can make a meaningful contribution. I'm a fast learner, and I'm willing and enthusiastic to learn new technology stacks and skills.
 
 **Tech skills at a glance:**:
 
-JavaScript (ES6), React, Node.js, Express, Ruby on Rails, Sinatra, Git workflow, CSS Flexbox, CSS Grid, Git, HTML.
+JavaScript (ES6), React, Node.js, Express, Ruby on Rails, Sinatra, Git workflow, SASS, CSS Flexbox, CSS Grid, HTML.
 
 ## Projects
 
@@ -78,23 +79,27 @@ I really enjoy solving problems, and it is at the core of my decision to become 
 
   In my time working a digital agency, I worked on real-world projects as the senior account executive. One of my most satisfying memories is being able to debug a major issue caused on a client's live production site due to a Google Chrome update in Version 70, where Chrome changed how it interpreted CSS Grid rows. As I had recently been teching myself CSS Grid, I was able to test out a few assumptions in Chrome's dev tools. The solution was to explicitly declare rows. This meant that we were able to communicate with the client, test, fix and deploy in a relatively short time.
 
+- **Bug fixing**
+
+  I really like sinking my teeth into problems and finding solutions. In my cohort at Makers academy, I started helping my colleagues on bugs they were facing in their projects. I would routinely get approached by colleagues to solve a particular bug. I wouldn't always be able to help, but this process has exposed me to different approaches to problem solving, and made me better at squashing software bugs.
+
 ### Communication
 
 Being good at communication is a vital soft skill for any organisation, be it to aid collaboration, grow productivity, build trust within teams or to increase morale.
 
-#### 8+ Years of experience communicating with technical and non-technical teams
+#### 9+ Years of experience communicating with technical and non-technical teams
 
 - **Account Management Experience**
 
-  In my role as senior account executive at Quba, a leading digital agency, I was often the bridge between clients who were non-technical stakeholders (usually marketing teams or senior management) and developers. It was my job to listen and ask the right questions (both to the clients and developers) to ensure the business objectives were correctly represented in the technical specifications, and to ensure that we weren't promising
+  In my role as senior account executive at Quba, a leading digital agency, I was often the bridge between clients who were non-technical stakeholders (usually marketing teams or senior management) and developers. It was my job to listen and ask the right questions (both to the clients and developers) to ensure the business objectives were correctly represented in the technical specifications, and to ensure that we weren't promising. I was able to turn around a souring relationship with a highly coveted client by communicating effectively, prioritising and consistently delivering on my deadlines.
 
 - **Management Experience**
 
-  In my role as head of digital & content at EyeforTravel, a leading business intelligence firm based in London, I was often called on in management meetings to condense marketing data in a way that communicated high-level information necessary for senior management in understanding and making decisions like making projections, or allocating resources in the short-term.
+  In my role as head of digital & content at EyeforTravel, a leading business intelligence firm based in London, I was often called on in management meetings to condense marketing data in a way that communicated high-level information necessary for senior management to understand and make decisions like revenue projections, or allocating resources.
 
 - **Building lasting relationships**
 
-  As part of my role at EyeforTravel, I was often called on in difficult situations both within the organisation and with external vendors. I was often able to navigate difficult situations by being able to call on colleagues for help or guidance. This was especially evident when I had to move out of the UK in 2011 due to new visa regulations, but I was offered a 100% remote job due to my relationship with my colleagues and external media partners and sponsors. After a year, I was also eventually offered a sponsorship to come back to the UK.
+  As part of my role at EyeforTravel, I was often called on in difficult situations both within the organisation and with external vendors. I was often able to navigate difficult situations by being able to call on colleagues for help or guidance. This was especially evident when I had to move out of the UK in 2011 due to new visa regulations, but I was offered a 100% remote job due to my relationship with my colleagues and external partners and sponsors. After a year, I was also eventually offered a sponsorship to join the team back in the UK.
 
 **Note:** I'm happy to provide references from previous clients and colleagues.
 
@@ -102,15 +107,13 @@ Being good at communication is a vital soft skill for any organisation, be it to
 
 ### Makers Academy (November 2019 to March 2019)
 
-Fully immersive 16 week programming course at Europe’s #1 Developer Bootcamp.
-
-Focused on core coding techniques & principles such as agile methodologies, Test Driven Development (TDD), Object Oriented Design & pair programming.
+Fully immersive 16 week programming course at Europe’s #1 Developer Bootcamp focused on core coding techniques & principles such as agile methodologies, Test Driven Development (TDD), Object Oriented Design, pair programming and more.
 
 **Core course topics include:**
 
 #### Programming fundamentals
 
-Pair Programming , Agile methodology, Single responsibility, Object Oriented Design (OOP), Test Driven Development (TDD), Cohesion and Encapsulation.
+Pair Programming , Agile methodology, Dependency Injection, Single responsibility, Object Oriented Design (OOP), Test Driven Development (TDD), Cohesion and Encapsulation.
 
 #### Languages and frameworks
 
@@ -135,6 +138,11 @@ Pair Programming , Agile methodology, Single responsibility, Object Oriented Des
 - Enzyme (React)
 - Sinon (React)
 
+**Git workflow**
+
+- Using branches to work collaboratively in teams
+- Writing descriptive & succinct commit messages
+
 **Databases**
 
 - PostgreSQL
@@ -143,8 +151,7 @@ Pair Programming , Agile methodology, Single responsibility, Object Oriented Des
 
 **Deployment**
 
-- Heroku
-- AWS
+- Continuous deployment using Heroku
 
 **Working Methodology**
 
@@ -155,7 +162,7 @@ Pair Programming , Agile methodology, Single responsibility, Object Oriented Des
 #### MA Marketing & Advertising (2:1)
 
 - **Core Subjects**: Digital Marketing, Marketing Communications, Consumer Behavior, PR & Corporate Communications and Marketing Research
-- My dissertation aimed at understanding the importance of trust and credibility in the not-for-profit fundraising sector.
+- My dissertation aimed at understanding the importance of trust and credibility in not-for-profit digital fundraising.
 
 ### St. Xavier's College (2004 - 2007)
 
