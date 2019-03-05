@@ -19,7 +19,7 @@ I have wanted to become a developer for the past 6+ years but couldn't pursue it
 
   Client-facing experience at a digital agency managing clients like **London Luton Airport**, **Ideal Standard (Armitage Shanks)** and **Stowe School** as well as working with in-house developers to spec, estimate and deliver on projects.
 
-  **Management**
+- **Management**
 
   4+ years of experience hiring, training and managing a 6 member team.
 
