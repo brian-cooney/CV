@@ -20,7 +20,7 @@ I'm looking to work for an organisation where I can make a meaningful contributi
 
 **Tech skills at a glance:**:
 
-JavaScript (ES6), React, Node.js, Express, Ruby on Rails, Sinatra, Git CSS Flexbox, CSS Grid, Git, HTML.
+JavaScript (ES6), React, Node.js, Express, Ruby on Rails, Sinatra, Git workflow, CSS Flexbox, CSS Grid, Git, HTML.
 
 ## Projects
 
@@ -40,6 +40,20 @@ Here is a selection of the projects I've worked on. For a complete list, [please
 | [Upcoming UK Bank Holidays](https://github.com/nkhil/UK-bank-holidays-using-fetch-API) | I created [whenisthenextbankholiday.co.uk](http://www.whenisthenextbankholiday.co.uk) to display upcoming bank holidays (based on the time) | HTML, CSS, Vanilla JavaScript           |
 
 ## Skills
+
+#### Motivated self-starter
+
+I learned how to code alongside working full-time in a high-pressure full-time job. This meant that even though I had the motivation, my time was limited.
+
+My approach to this problem was to dedicate at least 1 hour in the morning (when my attention level was at its highest), use online resources like freeCodeCamp and CodeAcademy while attending local programming and UX meetups, volunteering at conferences (Smashing conference, FrontEndNorth) to meet experienced developers, some of whom I am still in touch with and consider them to be my mentors.
+
+As soon as I could, I was able to quit my job and move to a smaller city (Sheffield) to reduce my expenses and dedicate all my time towards learning. I got a job at a local digital agency to be able to work alongside developers and get on-going support and guidance from them.
+
+Following that, I applied to Makers Academy to get more structure and a support network to make sure I wasn't learning any bad habits that would be hard to undo later.
+
+I have been able to de-construct my learning and recognise the style that works best for me (complete immersion). I have supplimented my learning with books that cover the latest research on learning (for eg: 'Deep Work' and 'So good they can't ignore you' by Cal Newport are some of my favourites).
+
+Having built the discipline, and a time-tested structure of learning, I feel confident in my ability to be able to take on new challenges and be able to perform at a high level.
 
 ### Problem Solving
 
@@ -68,20 +82,6 @@ Being good at communication is a vital soft skill for any organisation, be it to
 
 **Note:** I'm happy to provide references from previous clients and colleagues.
 
-#### Motivated self-starter
-
-I learned how to code alongside working full-time in a high-pressure full-time job. This meant that even though I had the motivation, my time was limited.
-
-My approach to this problem was to dedicate at least 1 hour in the morning (when my attention level was at its highest), use online resources like freeCodeCamp and CodeAcademy while attending local programming and UX meetups, volunteering at conferences (Smashing conference, FrontEndNorth) to meet experienced developers, some of whom I am still in touch with and consider them to be my mentors.
-
-As soon as I could, I was able to quit my job and move to a smaller city (Sheffield) to reduce my expenses and dedicate all my time towards learning. I got a job at a local digital agency to be able to work alongside developers and get on-going support and guidance from them.
-
-Following that, I applied to Makers Academy to get more structure and a support network to make sure I wasn't learning any bad habits that would be hard to undo later.
-
-I have been able to de-construct my learning and recognise the style that works best for me (complete immersion). I have supplimented my learning with books that cover the latest research on learning (for eg: 'Deep Work' and 'So good they can't ignore you' by Cal Newport are some of my favourites).
-
-Having built the discipline, and a time-tested structure of learning, I feel confident in my ability to be able to take on new challenges and be able to perform at a high level.
-
 ## Education
 
 ### Makers Academy (November 2019 to March 2019)
@@ -90,37 +90,49 @@ Fully immersive 16 week programming course at Europe’s #1 Developer Bootcamp.
 
 Focused on core coding techniques & principles such as agile methodologies, Test Driven Development (TDD), Object Oriented Design & pair programming.
 
-Core course topics include:
+**Core course topics include:**
 
-- **Programming fundamentals**
-  Pair Programming , Agile methodology, Single responsibility, Object Oriented Design (OOP), Test Driven Development (TDD), Cohesion and Encapsulation.
+#### Programming fundamentals
 
-- **Languages and frameworks**
-  - Languages:
-    - Ruby
-    - JavaScript
-    - HTML / CSS
-  - Frameworks:
-    - Ruby on Rails
-    - Sinatra
-    - React
-    - Node
+Pair Programming , Agile methodology, Single responsibility, Object Oriented Design (OOP), Test Driven Development (TDD), Cohesion and Encapsulation.
 
-* Ruby, JavaScript, HTML/CSS
-* Version control with Git / GitHub
-* RESTful API, 3rd party APIs
-* PostgreSQL, Active Record
-* RSpec, Capybara, Jasmine, Karma, Protractor
-* Heroku deployment
+#### Languages and frameworks
 
-* Curious and passionate about code. [PROVIDE EVIDENCE]
-* Fast, independent learner [PROVIDE EVIDENCE]
-* Great collaborator [PROVIDE EVIDENCE]
+**Languages**
 
-* OOP, TDD, MVC, DDD
-* Agile/XP
-* Ruby, Rails, JavaScript
-* RSpec, Jasmine
+- Ruby
+- JavaScript
+- HTML / CSS (Including CSS Flexbox & CSS Grid)
+
+**Frameworks**
+
+- Ruby on Rails
+- Sinatra
+- React
+
+**Testing**
+
+- RSpec (Ruby)
+- Capybara (Ruby / JavaScript)
+- Jasmine (JavaScript)
+- Jest (JavaScript)
+- Enzyme (React)
+- Sinon (React)
+
+**Databases**
+
+- PostgreSQL
+- Firebase
+- MongoDB
+
+**Deployment**
+
+- Heroku
+- AWS
+
+**Working Methodology**
+
+- Agile
 
 ### Leeds University Business School (Sept 2007)
 
@@ -136,19 +148,31 @@ Core course topics include:
 - **Core Subjects:** Documentary Filmmaking, Photography, Psychology, Fundamentals of Design, Media Buying, Advertising and Journalism
 - 50% of my degree was based on project work which exposed me to various fields such as advertising, filmmaking, film photography, graphic design, social work and much more.
 
-#### Any other qualifications
+#### Other qualifications
+
+- **Google Analytics Fundamentals certification**
+- **Kentico Content administrator certification**
 
 ## Experience
 
 **Quba Digital** (May 2018 to Dec 2018)  
 _Senior Digital Account Executive_
 
-- Worked with brands like London Luton Airport, Ideal Standard (Armitage Shanks) and Stowe School
+**Core responsibilities**
+
+- Worked with brands like **London Luton Airport**, **Ideal Standard (Armitage Shanks)** and **Stowe School**
 - Translating client requirements into technical specifications
 - Communicating technical questions and requirements with clients
 
 **EyeforTravel Ltd (part of FC Business Intelligence)** (Oct 2009 to Apr 2018)  
 _Head of Digital & Content_
+
+**Core responsibilities**
+
+- Managed marketing for products worth £1.8m across the company portfolio
+- Managing a team of upto 6
+- Liaising with senior management on business strategy
+- Specialist at email marketing, content marketing and lead generation
 
 ## Work Eligibility
 
