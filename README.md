@@ -21,7 +21,7 @@ I have wanted to become a developer for the past 6+ years but couldn't pursue it
 
   **Management**
 
-  Managed 
+  4+ years of experience hiring, training and managing a 6 member team.
 
 **Objective**
 I'm looking to work for an organisation where I can make a meaningful contribution. I'm a fast learner, and I'm willing and enthusiastic to learn new technology stacks and skills.
