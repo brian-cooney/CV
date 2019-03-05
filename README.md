@@ -34,32 +34,32 @@ JavaScript (ES6), React, Node.js, Express, Ruby on Rails, Sinatra, Git workflow,
 
 Here is a selection of the projects I've worked on. For a complete list, [please see my Github](https://github.com/nkhil?tab=repositories).
 
-| Project                                                                                | Description                                                                                                                                 | Technologies                            |
-| -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------- |
-| [Personal portfolio - nikhilvijayan.com](http://www.nikhilvijayan.com/)                | A responsive static site to showcase my projects and writing.                                                                               | CSS Grid, CSS Flexbox, SASS, JavaScript |
-| [tinyreactexperiments.com](http://tinyreactexperiments.com/)                           | A site I built to get better at React by building tiny components                                                                           | React, JavaScript, CSS                  |
-| [Catch of the day](http://tinyreactexperiments.com/)                                   | A front-end restaurant menu app built using React                                                                                           | React, CSS                              |
-| [Instagram clone](https://github.com/nkhil/Brexit_means_Breadsticks)                   | A Instagram clone built using Ruby on Rails                                                                                                 | Ruby on Rails                           |
-| [10 pin bowling scorecard](https://github.com/nkhil/Brexit_means_Breadsticks)          | Back-end logic to score a game of 10-pin bowling made in vanilla JS                                                                         | Vanilla JavaScript                      |
-| [Takeaway Challenge](https://github.com/nkhil/takeaway-challenge)                      | Business logic for a tool that takes orders and uses the Twilio API to confirm delivery time                                                | Sinatra                                 |
-| [Bombay Train Map](http://bombaytra.in/)                                               | I designed a new map for the Bombay (Mumbai) train system.                                                                                  | Photoshop, HTML, CSS                    |
-| [Brexit Means Breadsticks](https://github.com/nkhil/Brexit_means_Breadsticks)          | A Chrome extension that replaces any mention of the word 'Brexit' with 'Breadsticks'                                                        | Vanilla JavaScript                      |
-| [Responsive Landing Page](https://github.com/nkhil/Titan-Responsive-Landing-Page-)     | Responsive landing page design                                                                                                              | CSS Flexbox, HTML                       |
-| [Upcoming UK Bank Holidays](https://github.com/nkhil/UK-bank-holidays-using-fetch-API) | I created [whenisthenextbankholiday.co.uk](http://www.whenisthenextbankholiday.co.uk) to display upcoming bank holidays (based on the time) | HTML, CSS, Vanilla JavaScript           |
+| Project                                                                                | Description                                                                                                                | Technologies                            |
+| -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | --------------------------------------- |
+| [Personal portfolio - nikhilvijayan.com](http://www.nikhilvijayan.com/)                | Responsive static site to showcase my projects and writing.                                                                | CSS Grid, CSS Flexbox, SASS, JavaScript |
+| [tinyreactexperiments.com](http://tinyreactexperiments.com/)                           | Side project I built to get better at React by building tiny components                                                    | React, JavaScript, CSS                  |
+| [Catch of the day](http://tinyreactexperiments.com/)                                   | Front-end restaurant menu app built using React                                                                            | React, CSS                              |
+| [Instagram clone](https://github.com/nkhil/Brexit_means_Breadsticks)                   | Instagram clone built using Ruby on Rails                                                                                  | Ruby on Rails                           |
+| [10 pin bowling scorecard](https://github.com/nkhil/Brexit_means_Breadsticks)          | Back-end logic to score a game of 10-pin bowling made in vanilla JS                                                        | Vanilla JavaScript                      |
+| [Takeaway Challenge](https://github.com/nkhil/takeaway-challenge)                      | Business logic for a restaurant tool that takes orders and uses the Twilio API to confirm delivery time via text message   | Sinatra                                 |
+| [Bombay Train Map](http://bombaytra.in/)                                               | I designed a new map and Android app for the Bombay (Mumbai) train system.                                                 | Photoshop, HTML, CSS                    |
+| [Brexit Means Breadsticks](https://github.com/nkhil/Brexit_means_Breadsticks)          | A Chrome extension that changes any mention of the word 'Brexit' with 'Breadsticks'                                        | Vanilla JavaScript                      |
+| [Responsive Landing Page](https://github.com/nkhil/Titan-Responsive-Landing-Page-)     | Responsive landing page design for a branding agency.                                                                      | CSS Flexbox, HTML                       |
+| [Upcoming UK Bank Holidays](https://github.com/nkhil/UK-bank-holidays-using-fetch-API) | Website that displays upcoming bank holidays - [whenisthenextbankholiday.co.uk](http://www.whenisthenextbankholiday.co.uk) | HTML, CSS, Vanilla JavaScript           |
 
 ## Skills
 
 #### Motivated self-starter
 
-I learned how to code alongside working full-time in a high-pressure full-time job. This meant that even though I had the motivation, my time was limited.
+I started learning how to code alongside working full-time in a high-pressure job. This meant that even though I had the motivation, my time was limited.
 
-My approach to this problem was to dedicate at least 1 hour in the morning (when my attention level was at its highest), use online resources like freeCodeCamp and CodeAcademy while attending local programming and UX meetups, volunteering at conferences (Smashing conference, FrontEndNorth) to meet experienced developers, some of whom I am still in touch with and consider them to be my mentors.
+My approach to this problem was to dedicate at least 1 hour each morning (when my attention level was at its highest), use online resources like freeCodeCamp and CodeAcademy while attending local programming and UX meetups, volunteering at conferences (Smashing conference, FrontEndNorth) to meet experienced developers, some of whom I am still in touch with and consider them my mentors.
 
-As soon as I could, I was able to quit my job and move to a smaller city (Sheffield) to reduce my expenses and dedicate all my time towards learning. I got a job at a local digital agency to be able to work alongside developers and get on-going support and guidance from them.
+As soon as I could, I was able to quit my job and move to a smaller city (Sheffield) to reduce my expenses and dedicate all my time towards learning. I got a job at a local digital agency to be able to work alongside developers and get on-going support and guidance from them while I self-taught myself in my free time.
 
-Following that, I applied to Makers Academy to get more structure and a support network to make sure I wasn't learning any bad habits that would be hard to undo later.
+Following that, I applied to Makers Academy to get more structure and a support network to make sure I was building the right skills (for eg: TDD, Single Responsibility, dependency injection, cohesion etc) that would make me a valuable addition to a team.
 
-I have been able to de-construct my learning and recognise the style that works best for me (complete immersion). I have supplimented my learning with books that cover the latest research on learning (for eg: 'Deep Work' and 'So good they can't ignore you' by Cal Newport are some of my favourites).
+I have been able to de-construct my learning and recognise the style that works best for me. I have supplimented my learning with books that cover the latest research on learning (for eg: 'Deep Work' and 'So good they can't ignore you' by Cal Newport are some of my favourites).
 
 Having built the discipline, and a time-tested structure of learning, I feel confident in my ability to be able to take on new challenges and be able to perform at a high level.
 
