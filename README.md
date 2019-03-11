@@ -6,6 +6,11 @@
 
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies & Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/nikhilvijayan/) | [Blog](https://medium.com/@nkhilv/) | [Portfolio](http://www.nikhilvijayan.com)
 
+<a href="https://sourcerer.io/nkhil"><img src="https://img.shields.io/badge/Ruby-402%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/nkhil"><img src="https://img.shields.io/badge/JavaScript-222%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/nkhil"><img src="https://img.shields.io/badge/SQL-98%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/nkhil"><img src="https://img.shields.io/badge/CSS-307%20commits-orange.svg" alt=""></a>
+
 **Introduction**
 
 I have wanted to become a developer for the past 6+ years but couldn't pursue it due to the UK's current immigration policy. I became a permanent UK resident last year (March 2018). I quit my job the day after, and have been focusing all my time & energy on becoming a better software developer.
