@@ -33,26 +33,26 @@ I have wanted to become a developer for the past 6+ years but couldn't pursue it
 
 I'm looking to work for an organisation where I can make a meaningful contribution. I'm a fast learner, and I'm willing and enthusiastic to learn new technology stacks and skills.
 
-**Tech skills at a glance:**:
+**Technologies I'm familiar with**
 
 JavaScript (ES6), React, Node.js, Express, Ruby on Rails, Sinatra, Git workflow, SASS, CSS Flexbox, CSS Grid, HTML.
 
 ## Projects
 
-Here is a selection of the projects I've worked on. For a complete list, [please see my Github](https://github.com/nkhil?tab=repositories).
+Here is a selection of the projects I've worked on. For a complete list, [please see my Github](https://github.com/nkhil?tab=repositories) or [my personal website](http://nikhilvijayan.com).
 
-| Project                                                                                | Description                                                                                                                | Technologies                            |
-| -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | --------------------------------------- |
-| [Personal portfolio - nikhilvijayan.com](http://www.nikhilvijayan.com/)                | Responsive static site to showcase my projects and writing.                                                                | CSS Grid, CSS Flexbox, SASS, JavaScript |
-| [tinyreactexperiments.com](http://tinyreactexperiments.com/)                           | Side project I built to get better at React by building tiny components                                                    | React, JavaScript, CSS                  |
-| [Catch of the day](http://nikhilvijayan.com/catchoftheday/)                                   | Front-end restaurant menu app built using React                                                                            | React, CSS                              |
-| [Instagram clone](https://github.com/nkhil/instagram-challenge)                   | Instagram clone built using Ruby on Rails                                                                                  | Ruby on Rails                           |
-| [10 pin bowling scorecard](https://github.com/nkhil/bowling-challenge-2)          | Back-end logic to score a game of 10-pin bowling made in vanilla JS                                                        | Vanilla JavaScript                      |
-| [Takeaway Challenge](https://github.com/nkhil/takeaway-challenge)                      | Business logic for a restaurant tool that takes orders and uses the Twilio API to confirm delivery time via text message   | Sinatra                                 |
-| [Bombay Train Map](http://bombaytra.in/)                                               | I designed a new map and Android app for the Bombay (Mumbai) train system.                                                 | Photoshop, HTML, CSS                    |
-| [Brexit Means Breadsticks](https://github.com/nkhil/Brexit_means_Breadsticks)          | A Chrome extension that changes any mention of the word 'Brexit' with 'Breadsticks'                                        | Vanilla JavaScript                      |
-| [Responsive Landing Page](https://github.com/nkhil/Titan-Responsive-Landing-Page-)     | Responsive landing page design for a branding agency.                                                                      | CSS Flexbox, HTML                       |
-| [Upcoming UK Bank Holidays](http://whenisthenextbankholiday.co.uk/) | Website that displays upcoming bank holidays - [whenisthenextbankholiday.co.uk](http://www.whenisthenextbankholiday.co.uk) | HTML, CSS, Vanilla JavaScript           |
+| **Project**               | **Description**                                                                                                           | **Timeframe** | **Technology**                                | **Github**                                                          | **Live**                                          |
+| ------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ------------- | --------------------------------------------- | ------------------------------------------------------------------- | ------------------------------------------------- |
+| Personal portfolio        | Responsive static site to showcase my projects and writing.                                                               | 4 weeks       | HTML, SASS, CSS Flexbox, CSS Grid, JavaScript | [Github](https://github.com/nkhil/personal-portfolio)               | [Live](http://nikhilvijayan.com)                  |
+| Tiny React experiments    | React side project I built to play around with React                                                                      | 2 weeks       | React JS, CSS                                 | [Github](https://github.com/nkhil/Tiny-React-Experiments)           | [Live](http://tinyreactexperiments.com)           |
+| Catch of the day          | Front-end restaurant menu app built using React                                                                           | 2 weeks       | React, CSS                                    | [Github](https://github.com/nkhil/react-catch-of-the-day)           | [Live](http://nikhilvijayan.com/catchoftheday/)   |
+| Instagram clone           | Instagram built using Ruby on Rails                                                                                       | 1 day         | Ruby on Rails, CSS, Postgres                  | [Github](https://github.com/nkhil/instagram-challenge)              | NA                                                |
+| Ten pin bowling scorecard | Business logic to score a game of ten-pin-bowling made in vanilla JS                                                      | 2 days        | Vanilla JS, Jasmine                           | [Github](https://github.com/nkhil/bowling-challenge-2)              | NA                                                |
+| Takeaway challenge        | Business logic for a restaurant tool that takes orders and uses the Twilio API to confirm delivery times via text message | 2 days        | Sinatra                                       | [Github](https://github.com/nkhil/takeaway-challenge)               | NA                                                |
+| Bombay train map          | I designed a new map and an Android app for the Bombay train system                                                       | 2 weeks       | HTML, CSS                                     | NA                                                                  | [Live](http://bombaytra.in)                       |
+| Brexit means breadsticks  | A Chrome extension that changes any mention of the word 'Brexit' with 'Breadsticks'                                       | 1 day         | Vanilla JS                                    | [Github](https://github.com/nkhil/Brexit_means_Breadsticks)         | NA                                                |
+| Next UK bank holiday      | I built a site that displays upcoming bank holidays                                                                       | 1 day         | Vanilla JS                                    | [Github](https://github.com/nkhil/UK-bank-holidays-using-fetch-API) | [Live](http://whenisthenextbankholiday.co.uk/)    |
+| Responsive landing page   | Responsive landing page design for a branding agency                                                                      | 1 day         | Vanilla JS                                    | [Github](https://github.com/nkhil/Titan-Responsive-Landing-Page-)   | [Live](https://codepen.io/mushroom23/full/wXZgBj) |
 
 ## Skills
 
@@ -114,11 +114,11 @@ Being good at communication is a vital soft skill for any organisation, be it to
 
 Fully immersive 16 week programming course at Europe’s #1 Developer Bootcamp focused on core coding techniques & principles such as agile methodologies, Test Driven Development (TDD), Object Oriented Design, pair programming and more.
 
-**Core course topics include:**
+_**Core course topics:**_
 
 #### Programming fundamentals
 
-Pair Programming , Agile methodology, Dependency Injection, Single responsibility, Object Oriented Design (OOP), Test Driven Development (TDD), Cohesion and Encapsulation.
+Object Oriented Design (OOP) best practices, Test Driven Development (TDD), writing clean code, Pair Programming , Agile development as well as core principles such as dependency injection, single responsibility, cohesion and encapsulation, polymorphism etc.
 
 #### Languages and frameworks
 
@@ -130,23 +130,25 @@ Pair Programming , Agile methodology, Dependency Injection, Single responsibilit
 
 **Frameworks**
 
+- React
 - Ruby on Rails
 - Sinatra
-- React
 
-**Testing**
+**Testing Suites**
 
 - RSpec (Ruby)
 - Capybara (Ruby / JavaScript)
 - Jasmine (JavaScript)
 - Jest (JavaScript)
 - Enzyme (React)
-- Sinon (React)
+- Cypress
 
 **Git workflow**
 
 - Using branches to work collaboratively in teams
 - Writing descriptive & succinct commit messages
+- Enforcing good commit discipline to minimise code conflicts
+- Dealing with code conflicts
 
 **Databases**
 
@@ -156,11 +158,17 @@ Pair Programming , Agile methodology, Dependency Injection, Single responsibilit
 
 **Deployment**
 
-- Continuous deployment using Heroku
+- Continuous deployment of the master and dev branches using Heroku/Firebase
 
 **Working Methodology**
 
-- Agile
+- Agile software development including:
+  - XP values
+  - Sprint planning
+  - Pair programming
+  - Breaking down the program into user stories
+  - Breaking down the user stories further into tickets
+  - Daily stand-ups and retrospectives to iteratively improve processes and code
 
 ### Leeds University Business School (Sept 2007)
 
@@ -183,7 +191,8 @@ Pair Programming , Agile methodology, Dependency Injection, Single responsibilit
 
 ## Experience
 
-**Quba Digital** (May 2018 to Dec 2018)  
+### **Quba Digital** (May 2018 to Dec 2018)
+
 _Senior Digital Account Executive_
 
 **Core responsibilities**
@@ -192,7 +201,8 @@ _Senior Digital Account Executive_
 - Translating client requirements into technical specifications
 - Communicating technical questions and requirements with clients
 
-**EyeforTravel Ltd (part of FC Business Intelligence)** (Oct 2009 to Apr 2018)  
+### **FC Business Intelligence** (Oct 2009 to Apr 2018)
+
 _Head of Digital & Content_
 
 **Core responsibilities**
